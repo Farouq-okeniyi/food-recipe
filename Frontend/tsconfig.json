@@ -1,0 +1,18 @@
+{
+  
+    // "compilerOptions": {
+    //   "jsx": "react-jsx",
+    //   "moduleResolution": "node"
+    // },
+    // "include": [
+    //   "src/**/*",
+    //   "tailwind.config.js",
+    //   "postcss.config.cjs"
+    // ],
+  
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
